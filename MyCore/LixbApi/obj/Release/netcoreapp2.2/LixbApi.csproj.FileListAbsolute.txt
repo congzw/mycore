@@ -1,0 +1,9 @@
+G:\MyBook\LixiaobingDeKe\workspace\mycore\MyCore\LixbApi\bin\Release\netcoreapp2.2\LixbApi.deps.json
+G:\MyBook\LixiaobingDeKe\workspace\mycore\MyCore\LixbApi\bin\Release\netcoreapp2.2\LixbApi.dll
+G:\MyBook\LixiaobingDeKe\workspace\mycore\MyCore\LixbApi\bin\Release\netcoreapp2.2\LixbApi.pdb
+G:\MyBook\LixiaobingDeKe\workspace\mycore\MyCore\LixbApi\obj\Release\netcoreapp2.2\LixbApi.csprojAssemblyReference.cache
+G:\MyBook\LixiaobingDeKe\workspace\mycore\MyCore\LixbApi\obj\Release\netcoreapp2.2\LixbApi.csproj.CoreCompileInputs.cache
+G:\MyBook\LixiaobingDeKe\workspace\mycore\MyCore\LixbApi\obj\Release\netcoreapp2.2\LixbApi.AssemblyInfoInputs.cache
+G:\MyBook\LixiaobingDeKe\workspace\mycore\MyCore\LixbApi\obj\Release\netcoreapp2.2\LixbApi.AssemblyInfo.cs
+G:\MyBook\LixiaobingDeKe\workspace\mycore\MyCore\LixbApi\obj\Release\netcoreapp2.2\LixbApi.dll
+G:\MyBook\LixiaobingDeKe\workspace\mycore\MyCore\LixbApi\obj\Release\netcoreapp2.2\LixbApi.pdb
